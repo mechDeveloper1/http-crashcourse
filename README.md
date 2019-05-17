@@ -64,3 +64,10 @@ Referrer Policy | Date | Authorization
    - 401 - Unauthorized
    - 404 - Not found
    - 500 - Internal server error
+
+### HTTP/2
+- Major revision of HTTP 
+- Under the hood changes
+- Respond with more data
+- Reduce latency by enabling full request and response multiplexing
+- Fast, efficient & secure
