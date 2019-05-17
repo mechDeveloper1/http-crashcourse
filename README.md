@@ -47,9 +47,20 @@ Referrer Policy | Date | Authorization
  
  
  ### HTTP Status Codes
- 100 to 500 Range
- 1xx : Informational
- 2xx : Success
- 3xx : Redirect
- 4xx : Client Error
- 5xx : Server Error
+ 
+ ###### 100 to 500 Range
+ - 1xx : Informational
+ - 2xx : Success
+ - 3xx : Redirect
+ - 4xx : Client Error
+ - 5xx : Server Error
+
+  ###### Most common HTTP Status Codes
+   - 200 - OK
+   - 201 - OK Created
+   - 301 - Moved to new URL
+   - 304 - Not Modified (Cached version)
+   - 400 - Bad request
+   - 401 - Unauthorized
+   - 404 - Not found
+   - 500 - Internal server error
